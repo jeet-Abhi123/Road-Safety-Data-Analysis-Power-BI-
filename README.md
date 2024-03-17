@@ -20,5 +20,6 @@ Showing all the visuals for third quarter of the year of all the states
 <img width="579" alt="Screenshot 2024-03-17 204812" src="https://github.com/jeet-Abhi123/Sales-Dashboard-using-Power-BI/assets/143840497/2982f880-347a-48e1-ab63-0b3e043d9219">
 
 Showing all the visuals for Tamil Nadu for first quarter
+
 <img width="579" alt="Screenshot 2024-03-17 205154" src="https://github.com/jeet-Abhi123/Sales-Dashboard-using-Power-BI/assets/143840497/2993a598-d140-486d-bce5-d3d37f349b53">
 
