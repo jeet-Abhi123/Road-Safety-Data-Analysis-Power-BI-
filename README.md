@@ -4,6 +4,8 @@
 
 Madhav store is a very popular brand of Indian clothes. So, owner of Madhav store wants us to help them create a dashboard to track and analyze their online sales across India.
 
+### Note : You can also take a look of the interactive dashboard by downloading both datasets providing in this repository and uploading .pbit file on the Power BI desktop app.
+
 ## Solution Provided
 
 This dashboard helps the company understand their sales better. It helps the company know from which category of goods most of the sales are coming from and vice versa. Through different type of graphs and visualizations, they get to know their improvement area, & thus they can improve their services by identifying these area. We have made the dashboard dynamic by introducing quarter options and state wise detailed graphs.
