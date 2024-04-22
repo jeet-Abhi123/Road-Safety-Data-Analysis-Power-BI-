@@ -8,12 +8,12 @@ This project involves developing a Power BI dashboard for road safety data. From
 
 ## Solution Provided
 
-This dashboard helps the company understand their sales better. It helps the company know from which category of goods most of the sales are coming from and vice versa. Through different type of graphs and visualizations, they get to know their improvement area, & thus they can improve their services by identifying these area. We have made the dashboard dynamic by introducing quarter options and state wise detailed graphs.
+This interactive Power BI dashboard provides comprehensive insights into road safety trends, facilitating informed decision-making and proactive measures to enhance public safety. It helps the government to know in which areas accident are frequent. Through different type of graphs and visualizations, they get to know their improvement area, & thus they can take neccessary steps by identifying the aciident prone areas. We have made the dashboard dynamic by introducing quarter options and area wise detailed graphs.
 Used: <br>
 1)Stacked bar charts <br>
-2)Slicer (for selection of quarters and a particular state) <br>
-3)Donut charts <br>
-4)Summary of Total amount, profit, quantity and average order value <br>
+2)Slicer (for selection of quarters and a particular area) <br>
+3)Pie chart <br>
+4)Summary of Total casualties and average speed limit <br>
 5)Clustered charts 
 
 ## Snapshot of the dashboard
