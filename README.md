@@ -2,9 +2,9 @@
 
 ## Problem Statement
 
-Madhav store is a very popular brand of Indian clothes. So, owner of Madhav store wants us to help them create a dashboard to track and analyze their online sales across India.
+This project involves developing a Power BI dashboard for road safety data. From the dataset you are expected to review existing accident data, identify data gaps, conduct data cleaning, and develop visualization of the data in Power BI. This dataset was provided by Indian Institute of Science (IISc) Bangalore in their coding round of research internship at Cistup.
 
-### Note : You can also take a look of the interactive dashboard by downloading both datasets providing in this repository and uploading .pbit file on the Power BI desktop app.
+### Note : You can also take a look of the interactive dashboard by downloading the dataset providing in this repository and uploading .pbit file on the Power BI desktop app. Just ensure you have uploaded dataset on the Power BI.
 
 ## Solution Provided
 
@@ -18,10 +18,10 @@ Used: <br>
 
 ## Snapshot of the dashboard
 
-Showing all the visuals for third quarter of the year of all the states
+General overview of the dashboard
 ![Screenshot 2024-04-22 145418](https://github.com/jeet-Abhi123/Sales-Dashboard-using-Power-BI/assets/143840497/53753603-2a8d-4eb7-b24d-31a0b35e100b)
 
-Showing all the visuals for Tamil Nadu for first quarter
+Showing all the visuals for the rural area for third quarter of the year
 
-<img width="579" alt="Screenshot 2024-03-17 205154" src="https://github.com/jeet-Abhi123/Sales-Dashboard-using-Power-BI/assets/143840497/2993a598-d140-486d-bce5-d3d37f349b53">
+![Screenshot 2024-04-22 145445](https://github.com/jeet-Abhi123/Sales-Dashboard-using-Power-BI/assets/143840497/375f4e76-4a27-4f44-a34f-dd83eeea7370)
 
