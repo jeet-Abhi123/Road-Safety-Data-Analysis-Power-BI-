@@ -19,7 +19,7 @@ Used: <br>
 ## Snapshot of the dashboard
 
 Showing all the visuals for third quarter of the year of all the states
-<img width="579" alt="https://github.com/jeet-Abhi123/Sales-Dashboard-using-Power-BI/assets/143840497/53753603-2a8d-4eb7-b24d-31a0b35e100b">
+![Screenshot 2024-04-22 145418](https://github.com/jeet-Abhi123/Sales-Dashboard-using-Power-BI/assets/143840497/53753603-2a8d-4eb7-b24d-31a0b35e100b)
 
 Showing all the visuals for Tamil Nadu for first quarter
 
